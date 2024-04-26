@@ -1,21 +1,17 @@
-## Hi, guys! 👋
+## Hi, guys! 👋🏽🧙🏾‍♂️
 
 <div align="justify">
-  Eu sou o Argemiro, Tecnólogo em Gestão da Tecnologia da Informação e graduando em Engenharia de Software 🖥️, já fui instrutor de informática, atuei como suporte e também já fui analista de TI morando em uma cidade mineradora. Por anos deixei minha paixão por desenvolvimento e pelo mundo da programação de lado por medo de não ser bom o suficiente, até que tomei coragem e hoje estou aqui, feliz por ter tomado a decisão de focar no que eu realmente quero para minha vida.
+  Eu sou o <strong>Argemiro</strong>, Tecnólogo em Gestão da Tecnologia da Informação e graduando em Engenharia de Software 🖥️, já fui instrutor de informática, atuei como suporte e também já fui analista de TI morando em uma cidade mineradora. Por anos deixei minha <strong>paixão</strong> por desenvolvimento e pelo mundo da programação de lado por medo de não ser bom o suficiente, até que <strong>tomei coragem</strong> e hoje estou aqui, feliz por ter tomado a decisão de focar no que eu realmente quero para minha vida.
 </div>
 
-## Mais algumas coisas que vocês precisam saber sobre mim.
+## Mais algumas coisas que vocês precisam saber sobre mim
 
-<div align="center">
-  <button id="toggleButton" onclick="toggleList()">🪄 Juro solenemente não fazer nada de bom! 🪄</button>
-</div>
-
-<ul id="myList" style="display: none;">
+<ul>
   <li>Adoro One Piece e coloquei o nome da minha petfilha de Nami em homenagem ao anime.</li>
-  <li>⚽ Me amarro em futebol e sou Flamenguista de alma.</li>
+  <li>Me amarro em futebol e sou Flamenguista de alma. ⚽</li>
   <li>Sou muito fã de rolê caseiro, muito mesmo. </li>
   <li>Comecei a treinar na academia e descobri que eu gosto disso também.</li>
-  <li>🎮 Não sou muito bom com jogos, mas eu tento. 😂</li>
+  <li>Não sou muito bom com jogos, mas eu tento. 🎮😂</li>
   <li>Amo a saga Harry Potter e já assisti aos filmes mais vezes do que posso contar. 🪄</li>
   <li>Eu gosto de Java 👨🏻‍💻</li>
 </ul>
@@ -29,12 +25,12 @@
 
 ---
 
-### Ferramentas e tecnologias que utilizo (por enquanto...)
+### Ferramentas e tecnologias que utilizo
 
 <div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,html,css,javascript,typescript,nodejs,java,spring,python,docker,react,redux,vite,vitest,expressjs,tailwind,jest,mysql,bootstrap,sequelize&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,html,css,javascript,typescript,nodejs,java,spring,python,docker,react,redux,vite,vitest,expressjs,tailwind,jest,mysql,bootstrap,sequelize&perline=12" />
   </a>
 </p>
 </div>
@@ -48,12 +44,3 @@
   <a href = "mailto:argemirodosanjos17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href='https://www.instagram.com/dosanjos_argemiro/' target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-<script>
-function toggleList() {
-  const list = document.getElementById("myList");
-  list.style.display = (list.style.display === "none") ? "block" : "none";
-  const spellBtn = document.getElementById("toggleButton");
-  spellBtn.innerHTML = (list.style.display === "none") ? "🪄 Juro solenemente não fazer nada de bom! 🪄" : "🪄 Malfeito, feito! 🪄";
-}
-</script>
