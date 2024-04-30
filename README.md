@@ -27,10 +27,48 @@
 
 ### Ferramentas e tecnologias que utilizo
 
+#### 👨🏻‍💻 Linguagens:
+
 <div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,html,css,javascript,typescript,nodejs,java,spring,python,docker,react,redux,vite,vitest,expressjs,tailwind,jest,mysql,bootstrap,sequelize&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,nodejs&perline=12" />
+  </a>
+</p>
+</div>
+
+---
+
+#### 🧰 Frameworks:
+
+<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,react,tailwind,bootstrap,sequelize,express&perline=12" />
+  </a>
+</p>
+</div>
+
+---
+
+#### 🗄️ Banco de dados:
+
+<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql&perline=12" />
+  </a>
+</p>
+</div>
+
+---
+
+#### ⚙️ Ferramentas:
+
+<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,docker,vite,vitest,jest,redux&perline=12" />
   </a>
 </p>
 </div>
@@ -42,5 +80,5 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/argemiro-dos-anjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:argemirodosanjos17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href='https://www.instagram.com/dosanjos_argemiro/' target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
