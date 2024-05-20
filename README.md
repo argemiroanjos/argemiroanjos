@@ -13,7 +13,7 @@
   <li>Comecei a treinar na academia e descobri que eu gosto disso também.</li>
   <li>Não sou muito bom com jogos, mas eu tento. 🎮😂</li>
   <li>Amo a saga Harry Potter e já assisti aos filmes mais vezes do que posso contar. 🪄</li>
-  <li>Eu gosto de Java 👨🏻‍💻</li>
+  <li>Eu gosto de Java. 👨🏻‍💻</li>
 </ul>
 
 ---
