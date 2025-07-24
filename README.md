@@ -57,6 +57,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql&perline=12" />
+    <img src="https://skillicons.dev/icons?i=postgres&perline=12" />
   </a>
 </p>
 </div>
